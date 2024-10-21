@@ -1,0 +1,16 @@
+﻿{
+  "Group": "Payment methods",
+  "FriendlyName": "<font style=\"vertical-align: inherit;\"><font style=\"vertical-align: inherit;\">Tarjeta de crédito</font></font>",
+  "SupportedVersions": [
+    "4.70"
+  ],
+  "Author": "nopCommerce team",
+  "DisplayOrder": 0,
+  "FileName": "Nop.Plugin.Payments.Manual.dll",
+  "Description": "This plugin enables credit card payment (stored into database)",
+  "LimitedToStores": [],
+  "LimitedToCustomerRoles": [],
+  "DependsOnSystemNames": [],
+  "SystemName": "Payments.Manual",
+  "Version": "4.70.3"
+}
